@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tsrobinson.github.io/polmeth_europe_25/sitemap.xml
+Sitemap: https://tsrobinson.github.io/polmeth_europe_25//sitemap.xml
