@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Co-hosted by the <a href='#'>London School of Economics and Political Science (LSE)</a> and <a href="#">University of Essex</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lse.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:  
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Join us in London on 7-8 April 2025 for the 4th European PolMeth meeting!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+PolMeth Europe brings together junior and senior scholars interested in innovative research methods and their applications. We welcome proposals that focus on methodological contributions as well as work that applies cutting-edge empirical methods to research questions from all subfields. We particularly encourage submissions from underepresented minorities. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**All abstract submissions must be received by November 30th 2024.**
+
+<!-- <button name="submit" onclick="a href=https://forms.office.com/e/qzn3QL9qY5">Click here to submit your abstract</button> -->
+
+[Click here to submit your abstract](https://forms.office.com/e/qzn3QL9qY5){: .btn}
+
+If you have any questions, please contact the local organizers at t.robinson7[at]lse.ac.uk and nelson.ruiz[at]essex.ac.uk. 

@@ -56,6 +56,18 @@
             </a>
           </li>
 
+          <!-- News -->
+          <li class="nav-item {% if page.permalink == '/news/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/news' | relative_url }}">
+              news
+            </a>
+          </li>
+
+          <!-- Submit proposal --> 
+          <li class="nav-item"><a class="nav-link" href="https://forms.office.com/e/qzn3QL9qY5">submit proposal</a></li> 
+
+          
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
