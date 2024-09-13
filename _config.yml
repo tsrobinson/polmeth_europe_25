@@ -11,7 +11,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Conference website for European PolMeth meeting on 7-8 April 2025, co-hosted by LSE and University of Essex.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. <a href="https://commons.wikimedia.org/wiki/File:Westminster_Big_Ben_Tower_2011-06_02.jpg">Cover photo</a> taken by Andreas Praefcke and licensed under <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY 3.0</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
+  <a href="https://commons.wikimedia.org/wiki/File:Westminster_Big_Ben_Tower_2011-06_02.jpg" target="_blank">Cover photo</a> taken by Andreas Praefcke and licensed under <a href="https://creativecommons.org/licenses/by/3.0/deed.en" target="_blank">CC BY 3.0</a>.
 keywords: polmeth, research, methodology, conference # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

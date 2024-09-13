@@ -6,7 +6,7 @@ subtitle: Co-hosted by the <a href='https://www2.lse.ac.uk/methodology'>London S
 
 profile:
   align: right
-  image: london3.jpg
+  image: london.jpg
   image_circular: false # crops the image to make it circular
   more_info:  
 
