@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Co-hosted by the <a href='#'>London School of Economics and Political Science (LSE)</a> and <a href="#">University of Essex</a>.
+subtitle: Co-hosted by the <a href='https://www2.lse.ac.uk/methodology'>London School of Economics and Political Science (LSE)</a> and <a href="https://www.essex.ac.uk/departments/government">University of Essex</a>.
 
 profile:
   align: right

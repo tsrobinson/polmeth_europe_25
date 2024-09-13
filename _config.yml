@@ -8,7 +8,7 @@ middle_name: Europe
 last_name: 2025
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Conference website for European PolMeth meeting on 7-8 April 2025, co-hosted by LSE and Essex University.
+  Conference website for European PolMeth meeting on 7-8 April 2025, co-hosted by LSE and University of Essex.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
