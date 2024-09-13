@@ -4,7 +4,7 @@ title: Organizing Committee
 permalink: /committee/
 ---
 
-### Local hosts
+### Conference organizers
 
 Nelson Ruiz (Essex), Thomas Robinson (LSE)
 
