@@ -23,6 +23,6 @@ PolMeth Europe brings together junior and senior scholars interested in innovati
 
 [Click here to submit your abstract](https://forms.office.com/e/qzn3QL9qY5){: .btn}
 
-You can find the original [call for papers here](assets/pdf/polmeth_europe_25_cfp.pdf).
+You can find the [call for papers here](assets/pdf/polmeth_europe_25_cfp.pdf).
 
 If you have any questions, please contact the local organizers at t.robinson7[at]lse.ac.uk and nelson.ruiz[at]essex.ac.uk. 
