@@ -14,5 +14,5 @@ Sergio Ascenscio (Essex), Nicole Baerg (Essex), Allyson Benton (Essex),  Mariael
 
 ### Conference assistants
 
-Christy Coulson (LSE), Fareeda Khalifa (Essex), Tiffany Lau (LSE), and Lorenzo Vicari (LSE)
+Christy Coulson (LSE), Fareeda Khalifa (Essex), and Lorenzo Vicari (LSE)
 
