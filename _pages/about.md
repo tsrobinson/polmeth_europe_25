@@ -19,10 +19,10 @@ Join us in London at LSE on 7-8 April 2025 for the 4th European PolMeth meeting!
 
 PolMeth Europe brings together junior and senior scholars interested in innovative research methods and their applications. We welcome proposals that focus on methodological contributions as well as work that applies cutting-edge empirical methods to research questions from all subfields. We particularly encourage submissions from underepresented groups. 
 
-**All abstract submissions must be received by November 30th 2024.**
+[View the conference schedule](assets/pdf/polmeth_europe_25_schedule140325.pdf).{: .btn}
 
-[Click here to submit your abstract](https://forms.office.com/e/qzn3QL9qY5){: .btn}
+Want to attend the conference? Click [here to join us in April](https://www.eventbrite.co.uk/e/polmeth-europe-2025-tickets-1248480882929?aff=oddtdtcreator)
 
-You can find the [call for papers here](assets/pdf/polmeth_europe_25_cfp.pdf).
+The original call for papers is stored [here](assets/pdf/polmeth_europe_25_cfp.pdf).
 
 If you have any questions, please contact the local organizers at t.robinson7[at]lse.ac.uk and nelson.ruiz[at]essex.ac.uk. 
