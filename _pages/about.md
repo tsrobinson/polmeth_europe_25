@@ -15,11 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+[Click here to view the conference schedule](assets/pdf/polmeth_europe_schedule070425b.pdf){: .btn}
+
 Join us in London at LSE on 7-8 April 2025 for the 4th European PolMeth meeting!
 
 PolMeth Europe brings together junior and senior scholars interested in innovative research methods and their applications. We welcome proposals that focus on methodological contributions as well as work that applies cutting-edge empirical methods to research questions from all subfields. We particularly encourage submissions from underepresented groups. 
 
-[Click here to view the conference schedule](assets/pdf/polmeth_europe_schedule070425.pdf){: .btn}
+[Click here to view the conference schedule](assets/pdf/polmeth_europe_schedule070425b.pdf){: .btn}
 
 Papers uploaded in advance of the conference can be accessed [here](https://www.dropbox.com/scl/fo/cqby9vwrmja8z4uok5v44/AA56cg221XOpFWWbc_9TYJk?rlkey=cvewbnvy1dinx8noys4qe3vfa&dl=0)
 
