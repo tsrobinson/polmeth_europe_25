@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: PolMeth Europe 2025 # the website title (if blank, full name will be used instead)
+title: PolMeth Europe 2026 # the website title (if blank, full name will be used instead)
 first_name: PolMeth
 middle_name: Europe
-last_name: 2025
+last_name: 2026
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Conference website for European PolMeth meeting on 7-8 April 2025, co-hosted by LSE and University of Essex.
+  Conference website for European PolMeth meeting on 7-8 May 2026, hosted by TCD.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
-  <a href="https://commons.wikimedia.org/wiki/File:Westminster_Big_Ben_Tower_2011-06_02.jpg" target="_blank">Cover photo</a> taken by Andreas Praefcke and licensed under <a href="https://creativecommons.org/licenses/by/3.0/deed.en" target="_blank">CC BY 3.0</a>.
+  <a href="https://pixabay.com/photos/dublin-trinity-college-ireland-4945217/" target="_blank">Cover photo</a> taken by Leonhard Niederwimme and licensed under <a href="https://creativecommons.org/licenses/by/3.0/deed.en" target="_blank">CC BY 3.0</a>.
 keywords: polmeth, research, methodology, conference # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
