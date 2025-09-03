@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abstract submissions now open!
-date: 2025-09-05 00:00:00-0000
+date: 2025-09-03 16:00:00-0000
 inline: false
 related_posts: false
 ---
