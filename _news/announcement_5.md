@@ -8,4 +8,4 @@ related_posts: false
 
 The initial programme for PolMeth Europe 2026 is now available!
 
-[Click here to view the conference schedule](assets/pdf/PolMeth_Schedule_2026.pdf).
+[Click here to view the conference schedule](https://polmeth.eu/assets/pdf/PolMeth_Schedule_2026.pdf).
