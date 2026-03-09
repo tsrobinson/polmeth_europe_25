@@ -19,7 +19,7 @@ Join us in Dublin at TCD on 14-15 May 2026 for the 5th European PolMeth meeting!
 
 PolMeth Europe brings together junior and senior scholars interested in innovative research methods and their applications. We welcome proposals that focus on methodological contributions as well as work that applies cutting-edge empirical methods to research questions from all subfields. We particularly encourage submissions from underepresented groups. 
 
-[Click here to view the conference schedule](assets/pdf/polmeth_europe_schedule090326.pdf).
+[Click here to view the conference schedule](assets/pdf/PolMeth_Schedule_2026.pdf).
 
 The original call for papers is stored [here](assets/pdf/polmeth_europe_26_cfp.pdf). 
 
